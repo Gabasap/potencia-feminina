@@ -1,0 +1,6 @@
+Criando uma nova branch pelo terminal
+Comandos necessários:
+git checkout -b [nome da branch]
+
+git branch para ver quantas branchs existem
+git checkout [nome da branch] para retornar para uma branch 
